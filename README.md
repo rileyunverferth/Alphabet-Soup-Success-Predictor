@@ -1,5 +1,5 @@
-# deep-learning-challenge
-## Module 21 Challenge
+# Alphabet Soup Success Predictor
+## Module 21 Challenge (Deep Learning)
 
 In this challenge we are using machine learning and neural networks help a fictional nonprofit foundation,  Alphabet Soup, to select the applicants for funding with the best chance of success in their ventures. Using the features in the dataset, we will create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 
